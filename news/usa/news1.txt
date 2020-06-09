@@ -1,2 +1,0 @@
-news1.txt - отредатировал в ветке news-usa и в ветке master
-
